@@ -15,9 +15,9 @@ double drand() {
      *
      * Example:-
      *
-     *   RAND_MAX = 2147483647
-     *   rand() = 982347928
-     *   rand() / RAND_MAX -> 982347928 / 2147483647 -> 0.457..
+     *   RAND_MAX          = 2147483647
+     *   rand()            = 982347928
+     *   rand() / RAND_MAX = 0.457..
      */
 
     double ran = (double)rand();   // converting to double for more precision
