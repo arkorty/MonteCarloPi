@@ -34,10 +34,10 @@ double get_pi(int n) {
      *   1. get two random numbers between 0 and 1 inclusively and use them as
      *      coordinates for a point
      *   2. repeat the last step n number of times to get n number of points
-     *   3. count all the points inside the circle using the distance formula
+     *   3. count all the points inside the circle using the equation of a circle
      *   4. isolate the value of Pi using the special formula below
      *
-     * Formula of a circle of radius r:-
+     * Equation of a circle of radius r:-
      *
      *   r = x^2 + y^2
      *
